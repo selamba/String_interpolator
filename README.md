@@ -15,7 +15,6 @@ Example code:
 
 I wrote this class while trying to solve the "99 bottles" problem, as seen is Sandi Metz's book "99 Bottles of OOP".
 
-    # Markdown escapes all slashes for some reason
     verse = "\#{num} bottles of beer on the wall, " \
         "\#{num} bottles of beer.\n" \
         'Take one down and pass it around, ' \
